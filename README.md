@@ -15,7 +15,7 @@ I'm looking for a frontend or full-stack role, remote only, and I'm open to free
 | <img src="./assets/previews/lingua.png" width="260"> | **Lingua**<br>An etymology explorer that shares one core across a web app, a Chrome extension and an Electron desktop app. | [demo](https://godsdar.github.io/lingua/) · [code](https://github.com/Godsdar/lingua) |
 | <img src="./assets/previews/chess-engine.png" width="260"> | **chess-engine**<br>A chess board that plays back, with a minimax and alpha-beta engine in TypeScript. | [demo](https://godsdar.github.io/chess-engine/) · [code](https://github.com/Godsdar/chess-engine) |
 | <img src="./assets/previews/tesseract.png" width="260"> | **Tesseract**<br>A 4D hypercube rendered in the browser with three.js. | [demo](https://godsdar.github.io/Tesseract/) · [code](https://github.com/Godsdar/Tesseract) |
-| <img src="./assets/previews/cineshelf.jpg" width="260"> | **CineShelf**<br>A movie search app with real posters, a personal watchlist and sign-in. Next.js 16, PostgreSQL and Auth.js. | [code](https://github.com/Godsdar/cineshelf) |
+| <img src="./assets/previews/cineshelf.jpg" width="260"> | **CineShelf**<br>A movie search app with real posters, a personal watchlist and sign-in. Next.js 16, PostgreSQL and Auth.js. | [code](https://github.com/Godsdar/CineShelf) |
 
 Also on GitHub: **[Serenity](https://github.com/Godsdar/Serenity)** (a Laravel 12 and React blog with PHPUnit tests) and a **[React + Laravel blog](https://github.com/Godsdar/Simple-blog-React-Laravel-REST-API-)**.
 
