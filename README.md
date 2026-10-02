@@ -6,18 +6,20 @@ I'm a developer from Almaty, Kazakhstan. I build web apps, mostly with React and
 
 I got into programming because I wanted to make things and grow at the same time. It slowly turned into more than a job: it shapes how I think, even outside of code. Lately I've been working with an agentic loop, and I think AI will change what engineers actually do day to day.
 
-I'm looking for a junior frontend or full-stack role. Remote only. I'm also open to freelance work. I can write in English, Russian and Spanish.
+I'm looking for a frontend or full-stack role. Remote only. I'm also open to freelance work. I can write in English, Russian and Spanish.
 
 ## Projects
 
 These are the repos I'd show first. The most interesting project is probably still ahead of me.
 
 - **[Lingua](https://github.com/Godsdar/lingua)**: an etymology explorer. One shared core, three surfaces: a web app, a Chrome extension and an Electron desktop app. [live demo](https://godsdar.github.io/lingua/)
-- **[Hurma Scout](https://github.com/Godsdar/hurma-scout)**: a back-office for choosing new pawnshop branches. Express and SQLite, two Telegram bots, approval chains and an MCP server. Most of the bugs I found in the dialog engine were caught by the tests, not by clicking around.
 - **[Serenity](https://github.com/Godsdar/Serenity)**: a Laravel 12 and React blog. My first full-stack app with real authentication, and PHPUnit tests for the auth and profile flows.
 - **[chess-engine](https://github.com/Godsdar/chess-engine)**: a chess board that plays back. Minimax with alpha-beta pruning and a material evaluation, written in TypeScript.
 - **[Tesseract](https://github.com/Godsdar/Tesseract)**: a 4D hypercube in the browser, built with three.js. I wrote the 4D rotation and the projection from scratch.
-- **[Hurma Radar](https://github.com/Godsdar/hurma-tg-analytics)**: analytics for public Telegram channels. It classifies posts and tracks subscriber growth.
+- **[movie-app-on-react](https://github.com/Godsdar/movie-app-on-react)**: a movie browsing app in React, TypeScript, Vite and Tailwind. Catalog, live search filter and detail pages on mock data.
+- **[React + Laravel blog](https://github.com/Godsdar/Simple-blog-React-Laravel-REST-API-)**: a blog with a React and Tailwind frontend and a Laravel REST API, runnable with Docker Compose.
+
+I also build internal business tools for clients (Telegram analytics, timesheet and back-office tooling). Those stay private.
 
 ## Open source
 
@@ -25,9 +27,8 @@ These are the repos I'd show first. The most interesting project is probably sti
 - [mergepay-web #449](https://github.com/mergepay/mergepay-web/pull/449): I added error boundaries and fallback states for wallet and API transactions, so a failed transaction shows something useful instead of a blank screen. I also added tests around it.
 - [kana-dojo #29635](https://github.com/lingdojo/kana-dojo/pull/29635): I fixed a broken JSON file (a missing comma in `japanese-idioms.json`) that stopped the idioms from loading.
 - [kana-dojo #29509](https://github.com/lingdojo/kana-dojo/pull/29509) and [#29507](https://github.com/lingdojo/kana-dojo/pull/29507): I added a Japanese proverb and a new theme.
-- [hurma-tabel #2](https://github.com/IbrohimBahodirov/hurma-tabel/pull/2) and [#3](https://github.com/IbrohimBahodirov/hurma-tabel/pull/3): I worked on a face-recognition algorithm, first making it faster and then tuning it for small faces, with scripts to measure the results.
 
-I have one open PR in [excalidraw #12026](https://github.com/excalidraw/excalidraw/pull/12026): Ctrl/Cmd+S should still save while CapsLock is on.
+Open: [excalidraw #12026](https://github.com/excalidraw/excalidraw/pull/12026): Ctrl/Cmd+S should still save while CapsLock is on.
 
 ## How I work with AI
 
