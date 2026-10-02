@@ -2,24 +2,40 @@
   <img src="./assets/header.svg" alt="Godsdar" width="100%">
 </div>
 
-I build web apps with React and TypeScript, and I use Laravel or Node when a project needs a backend.
+I build web apps, browser extensions and desktop tools, and I like the parts with math and graphics: a chess engine, a 4D renderer, an etymology explorer. Mostly TypeScript, React and Node, with Laravel when a project needs a backend.
 
-Browsers genuinely surprise me: how they work inside, and what you can draw with them in 2D and 3D.
+I'm looking for a software developer role (frontend, full-stack, or other work where I build products), remote preferred, and I'm open to freelance.
 
-I'm looking for a frontend or full-stack role, remote only, and I'm open to freelance work. I can write in English, Russian and Spanish.
+## Ways to work with me
+
+- React and TypeScript: bugs, forms and validation, UI that has to behave.
+- Browser extensions and desktop shells: one shared core shipped to web, Chrome and desktop.
+- Algorithms and visualization: minimax, trees, and 2D or 3D rendering with three.js.
+- Backend when a project needs one: Node and Express services, or Laravel apps.
 
 ## Projects
 
-| Preview | Project | Links |
-| --- | --- | --- |
-| <img src="./assets/previews/lingua.png" width="260"> | **Lingua**<br>An etymology explorer that shares one core across a web app, a Chrome extension and an Electron desktop app. | [demo](https://godsdar.github.io/lingua/) · [code](https://github.com/Godsdar/lingua) |
-| <img src="./assets/previews/chess-engine.png" width="260"> | **chess-engine**<br>A chess board that plays back, with a minimax and alpha-beta engine in TypeScript. | [code](https://github.com/Godsdar/chess-engine) |
-| <img src="./assets/previews/tesseract.png" width="260"> | **Tesseract**<br>A 4D hypercube rendered in the browser with three.js. | [code](https://github.com/Godsdar/Tesseract) |
-| <img src="./assets/previews/feedles.jpg" width="260"> | **Feedles**<br>A movie search app with real posters, a personal watchlist and sign-in. Next.js 16, PostgreSQL and Auth.js. | [code](https://github.com/Godsdar/feedles-next) |
+**Interactive and graphics**
 
-Also on GitHub: **[Serenity](https://github.com/Godsdar/Serenity)** (a Laravel 12 and React blog with PHPUnit tests) and a **[React + Laravel blog](https://github.com/Godsdar/Simple-blog-React-Laravel-REST-API-)**.
+- **[Tesseract](https://github.com/Godsdar/Tesseract)**: a 4D hypercube in the browser, built with three.js. [code](https://github.com/Godsdar/Tesseract)
+- **[Scene with the stencil buffer](https://github.com/Godsdar/Scene-with-the-stencil-buffer)**: a three.js scene built around the stencil buffer. [code](https://github.com/Godsdar/Scene-with-the-stencil-buffer)
 
-I also build internal business tools for a client (Telegram analytics, timesheet and back-office tooling). Those stay private.
+**Algorithms and engines**
+
+- **[chess-engine](https://github.com/Godsdar/chess-engine)**: a chess board that plays back, with minimax and alpha-beta pruning in TypeScript. [code](https://github.com/Godsdar/chess-engine)
+
+**Cross-platform tools**
+
+- **[Lingua](https://github.com/Godsdar/lingua)**: an etymology explorer with one core shared by a web app, a Chrome extension and an Electron desktop app. [demo](https://godsdar.github.io/lingua/) · [code](https://github.com/Godsdar/lingua)
+
+**Full-stack apps**
+
+- **[Feedles](https://github.com/Godsdar/feedles-next)**: a movie search app with real posters and a personal watchlist, built with Next.js and Postgres. [code](https://github.com/Godsdar/feedles-next)
+- **[Serenity](https://github.com/Godsdar/Serenity)**: a Laravel 12 and React blog with authentication and PHPUnit tests. [code](https://github.com/Godsdar/Serenity)
+
+## Made for fun
+
+For fun I build small experiments with math and graphics: a 4D renderer, a chess engine, a language tree. I keep them on GitHub.
 
 ## Open source
 
@@ -34,13 +50,11 @@ Open:
 
 - [excalidraw #12026](https://github.com/excalidraw/excalidraw/pull/12026): Ctrl/Cmd+S should still save while CapsLock is on.
 
-## How I work with AI
+## Open to contribute
 
-I work with coding agents a lot. I decide what to build and how it is structured, the agent writes a first version, and I read the diff and run the tests before I commit.
+I have made merged contributions to mergepay-web and kana-dojo, and I have an open pull request in excalidraw. I would like to keep helping with React and TypeScript projects, tests, and browser or 3D work.
 
-## What I like
-
-I like the creative side of this work. I like the web and I like AI.
+To reach me, use the contacts below.
 
 ## Contact
 
