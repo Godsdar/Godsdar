@@ -2,33 +2,35 @@
   <img src="./assets/header.svg" alt="Godsdar" width="100%">
 </div>
 
-I'm a developer from Almaty, Kazakhstan. I build web apps, mostly with React and TypeScript, and I use Laravel or Node when I need a backend.
+I build web apps with React and TypeScript, and I use Laravel or Node when a project needs a backend. I'm looking for a frontend or full-stack role, remote only, and I'm open to freelance work.
 
 I got into programming because I wanted to make things and grow at the same time. It slowly turned into more than a job: it shapes how I think, even outside of code. Lately I've been working with an agentic loop, and I think AI will change what engineers actually do day to day.
 
-I'm looking for a frontend or full-stack role. Remote only. I'm also open to freelance work. I can write in English, Russian and Spanish.
+I can write in English, Russian and Spanish.
 
 ## Projects
 
-These are the repos I'd show first. The most interesting project is probably still ahead of me.
+| Preview | Project | Links |
+| --- | --- | --- |
+| <img src="./assets/previews/lingua.png" width="260"> | **Lingua**<br>An etymology explorer that shares one core across a web app, a Chrome extension and an Electron desktop app. | [demo](https://godsdar.github.io/lingua/) · [code](https://github.com/Godsdar/lingua) |
+| <img src="./assets/previews/chess-engine.png" width="260"> | **chess-engine**<br>A chess board that plays back, with a minimax and alpha-beta engine in TypeScript. | [code](https://github.com/Godsdar/chess-engine) |
+| <img src="./assets/previews/tesseract.png" width="260"> | **Tesseract**<br>A 4D hypercube rendered in the browser with three.js. | [code](https://github.com/Godsdar/Tesseract) |
+| <img src="./assets/previews/movie-app.png" width="260"> | **Movie App**<br>A React and TypeScript catalog with live search and detail pages. | [code](https://github.com/Godsdar/movie-app-on-react) |
 
-- **[Lingua](https://github.com/Godsdar/lingua)**: an etymology explorer. One shared core, three surfaces: a web app, a Chrome extension and an Electron desktop app. [live demo](https://godsdar.github.io/lingua/)
-- **[Serenity](https://github.com/Godsdar/Serenity)**: a Laravel 12 and React blog. My first full-stack app with real authentication, and PHPUnit tests for the auth and profile flows.
-- **[chess-engine](https://github.com/Godsdar/chess-engine)**: a chess board that plays back. Minimax with alpha-beta pruning and a material evaluation, written in TypeScript.
-- **[Tesseract](https://github.com/Godsdar/Tesseract)**: a 4D hypercube in the browser, built with three.js. I wrote the 4D rotation and the projection from scratch.
-- **[movie-app-on-react](https://github.com/Godsdar/movie-app-on-react)**: a movie browsing app in React, TypeScript, Vite and Tailwind. Catalog, live search filter and detail pages on mock data.
-- **[React + Laravel blog](https://github.com/Godsdar/Simple-blog-React-Laravel-REST-API-)**: a blog with a React and Tailwind frontend and a Laravel REST API, runnable with Docker Compose.
-
-I also build internal business tools for clients (Telegram analytics, timesheet and back-office tooling). Those stay private.
+I also build internal business tools for a client (Telegram analytics, timesheet and back-office tooling). Those stay private.
 
 ## Open source
 
-- [mergepay-web #413](https://github.com/mergepay/mergepay-web/pull/413): I added a Vitest suite for the expense-split logic, so changes to that math get checked before they ship.
-- [mergepay-web #449](https://github.com/mergepay/mergepay-web/pull/449): I added error boundaries and fallback states for wallet and API transactions, so a failed transaction shows something useful instead of a blank screen. I also added tests around it.
-- [kana-dojo #29635](https://github.com/lingdojo/kana-dojo/pull/29635): I fixed a broken JSON file (a missing comma in `japanese-idioms.json`) that stopped the idioms from loading.
-- [kana-dojo #29509](https://github.com/lingdojo/kana-dojo/pull/29509) and [#29507](https://github.com/lingdojo/kana-dojo/pull/29507): I added a Japanese proverb and a new theme.
+Merged:
 
-Open: [excalidraw #12026](https://github.com/excalidraw/excalidraw/pull/12026): Ctrl/Cmd+S should still save while CapsLock is on.
+- [mergepay-web #413](https://github.com/mergepay/mergepay-web/pull/413): a Vitest suite for the expense-split logic.
+- [mergepay-web #449](https://github.com/mergepay/mergepay-web/pull/449): error boundaries and fallback states for wallet and API transactions, with tests.
+- [kana-dojo #29635](https://github.com/lingdojo/kana-dojo/pull/29635): fixed a broken JSON file that stopped the idioms from loading.
+- [kana-dojo #29509](https://github.com/lingdojo/kana-dojo/pull/29509) and [#29507](https://github.com/lingdojo/kana-dojo/pull/29507): a Japanese proverb and a theme.
+
+Open:
+
+- [excalidraw #12026](https://github.com/excalidraw/excalidraw/pull/12026): Ctrl/Cmd+S should still save while CapsLock is on.
 
 ## How I work with AI
 
