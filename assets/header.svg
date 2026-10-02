@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-label="Godsdar — AI-native frontend / full-stack developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0f1b2a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="230" rx="18" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1000" height="6" rx="3" fill="url(#accent)"/>
+
+  <text x="64" y="106" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="54" font-weight="700" fill="#f0f6fc">Godsdar</text>
+  <rect x="66" y="124" width="126" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="64" y="164" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" fill="#c9d1d9">AI-native frontend / full-stack developer</text>
+  <text x="64" y="198" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#8b949e">React · Vue · TypeScript&#160;&#160;|&#160;&#160;Laravel · Node&#160;&#160;|&#160;&#160;tests &amp; CI</text>
+
+  <g stroke="url(#accent)" stroke-width="1.6" fill="none" opacity="0.5">
+    <rect x="800" y="70" width="120" height="90" rx="4"/>
+    <rect x="822" y="92" width="76" height="46" rx="3"/>
+    <line x1="800" y1="70" x2="822" y2="92"/>
+    <line x1="920" y1="70" x2="898" y2="92"/>
+    <line x1="800" y1="160" x2="822" y2="138"/>
+    <line x1="920" y1="160" x2="898" y2="138"/>
+  </g>
+</svg>
