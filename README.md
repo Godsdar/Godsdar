@@ -8,7 +8,7 @@ I'm looking for a software developer role (frontend, full-stack, or other work w
 
 ## Ways to work with me
 
-- React and TypeScript: bugs, forms and validation, UI that has to behave.
+- React and TypeScript: bugs and forms.
 - Browser extensions and desktop shells: one shared core shipped to web, Chrome and desktop.
 - Algorithms and visualization: minimax, trees, and 2D or 3D rendering with three.js.
 - Backend when a project needs one: Node and Express services, or Laravel apps.
@@ -35,7 +35,9 @@ I'm looking for a software developer role (frontend, full-stack, or other work w
 
 ## Made for fun
 
-For fun I build small experiments with math and graphics: a 4D renderer, a chess engine, a language tree. I keep them on GitHub.
+Right now I build Lingua just for fun. I am curious about where words come from, and this is how I play with them. [Lingua](https://github.com/Godsdar/lingua)
+
+[Tesseract](https://github.com/Godsdar/Tesseract) and [chess-engine](https://github.com/Godsdar/chess-engine) also came out of interest, as things I wanted to see work.
 
 ## Open source
 
