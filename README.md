@@ -44,6 +44,6 @@ I like the creative side of this work. I like the web and I like AI.
 
 ## Contact
 
-- Email: sakharockfervent@gmail.com
+- Email: ildar.popov.dev@gmail.com
 - Upwork: https://www.upwork.com/freelancers/~01fec55e21f1f0fc51
 - hh.ru: https://almaty.hh.kz/resume/4a5654ceff107d051d0039ed1f356454725545
