@@ -2,11 +2,11 @@
   <img src="./assets/header.svg" alt="Godsdar" width="100%">
 </div>
 
-I build web apps with React and TypeScript, and I use Laravel or Node when a project needs a backend. I'm looking for a frontend or full-stack role, remote only, and I'm open to freelance work.
+I build web apps with React and TypeScript, and I use Laravel or Node when a project needs a backend.
 
-I got into programming because I wanted to make things and grow at the same time. It slowly turned into more than a job: it shapes how I think, even outside of code. Lately I've been working with an agentic loop, and I think AI will change what engineers actually do day to day.
+Browsers genuinely surprise me: how they work inside, and what you can draw with them in 2D and 3D.
 
-I can write in English, Russian and Spanish.
+I'm looking for a frontend or full-stack role, remote only, and I'm open to freelance work. I can write in English, Russian and Spanish.
 
 ## Projects
 
@@ -15,7 +15,9 @@ I can write in English, Russian and Spanish.
 | <img src="./assets/previews/lingua.png" width="260"> | **Lingua**<br>An etymology explorer that shares one core across a web app, a Chrome extension and an Electron desktop app. | [demo](https://godsdar.github.io/lingua/) · [code](https://github.com/Godsdar/lingua) |
 | <img src="./assets/previews/chess-engine.png" width="260"> | **chess-engine**<br>A chess board that plays back, with a minimax and alpha-beta engine in TypeScript. | [code](https://github.com/Godsdar/chess-engine) |
 | <img src="./assets/previews/tesseract.png" width="260"> | **Tesseract**<br>A 4D hypercube rendered in the browser with three.js. | [code](https://github.com/Godsdar/Tesseract) |
-| <img src="./assets/previews/movie-app.png" width="260"> | **Movie App**<br>A React and TypeScript catalog with live search and detail pages. | [code](https://github.com/Godsdar/movie-app-on-react) |
+| <img src="./assets/previews/feedles.jpg" width="260"> | **Feedles**<br>A movie search app with real posters, a personal watchlist and sign-in. Next.js 16, PostgreSQL and Auth.js. | [code](https://github.com/Godsdar/feedles-next) |
+
+Also on GitHub: **[Serenity](https://github.com/Godsdar/Serenity)** (a Laravel 12 and React blog with PHPUnit tests) and a **[React + Laravel blog](https://github.com/Godsdar/Simple-blog-React-Laravel-REST-API-)**.
 
 I also build internal business tools for a client (Telegram analytics, timesheet and back-office tooling). Those stay private.
 
@@ -34,11 +36,11 @@ Open:
 
 ## How I work with AI
 
-I mostly work in an agentic loop. I generate the ideas and decide what to build; the agents implement. I read the code they write, and I use them for the technical routine when it doesn't need my full attention. The checking is still on me.
+I work with coding agents a lot. I decide what to build and how it is structured, the agent writes a first version, and I read the diff and run the tests before I commit.
 
-## What I like, and what I don't
+## What I like
 
-I like the creative side of this work. I like the web, and I like AI. Browsers genuinely surprise me: how they work inside, and what you can draw with them in 2D and 3D. What I get from engineering is a feeling I don't get anywhere else, the sense of learning new ideas and seeing how things are put together. What I still don't understand is C and C++ programmers who brag about their low-level skills.
+I like the creative side of this work. I like the web and I like AI.
 
 ## Contact
 
