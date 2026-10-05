@@ -40,7 +40,7 @@ I work with coding agents a lot. I decide what to build and how it is structured
 
 ## What I like
 
-I like the creative side of this work. I like the web and I like AI.
+I like the creative side of this work, the web, and AI.
 
 ## Contact
 
