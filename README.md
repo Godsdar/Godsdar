@@ -17,7 +17,7 @@ I'm looking for a frontend or full-stack role, remote only, and I'm open to free
 | <img src="./assets/previews/tesseract.png" width="260"> | **Tesseract**<br>A 4D hypercube rendered in the browser with three.js. | [demo](https://godsdar.github.io/Tesseract/) · [code](https://github.com/Godsdar/Tesseract) |
 | <img src="./assets/previews/cineshelf.jpg" width="260"> | **CineShelf**<br>A movie search app with real posters, a personal watchlist and sign-in. Next.js 16, PostgreSQL and Auth.js, with Vitest tests and CI. | [demo](https://cine-shelf-lemon.vercel.app) · [code](https://github.com/Godsdar/CineShelf) |
 
-Also on GitHub: **[Serenity](https://github.com/Godsdar/Serenity)** (a Laravel 12 and React blog with PHPUnit tests), a **[React + Laravel blog](https://github.com/Godsdar/Simple-blog-React-Laravel-REST-API-)**, and **[astro-local-landing](https://github.com/Godsdar/astro-local-landing)** (an Astro and TypeScript landing starter with Vitest tests and CI).
+Also on GitHub: **[Serenity](https://github.com/Godsdar/Serenity)** (a Laravel 12 and React blog with PHPUnit tests), a **[React + Laravel blog](https://github.com/Godsdar/Simple-blog-React-Laravel-REST-API-)**, and **[astro-local-landing](https://godsdar.github.io/astro-local-landing/)** (an Astro and TypeScript landing starter with Vitest tests, CI and a live demo; [code](https://github.com/Godsdar/astro-local-landing)).
 
 I also build internal business tools for a client (Telegram analytics, timesheet and back-office tooling). Those stay private.
 
