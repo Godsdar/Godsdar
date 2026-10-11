@@ -4,20 +4,20 @@
 
 I build web apps with React and TypeScript, and I use Laravel or Node when a project needs a backend.
 
-Browsers genuinely surprise me: how they work inside, and what you can draw with them in 2D and 3D.
+I enjoy browser internals, interactive graphics and language tools.
 
-I'm looking for a frontend or full-stack role, remote only, and I'm open to freelance work. I can write in English, Russian and Spanish.
+Based in Almaty (UTC+5), looking for a remote junior frontend role. React, Next.js and TypeScript are my main focus; I also work with Vue 3. English B2, Russian native, conversational Spanish.
 
 ## Projects
 
 | Preview | Project | Links |
 | --- | --- | --- |
+| <img src="./assets/previews/cineshelf.jpg" width="260"> | **CineShelf**<br>A movie search app with real posters, a personal watchlist and sign-in. Next.js 16, PostgreSQL and Auth.js, with Vitest tests and CI. | [demo](https://cine-shelf-lemon.vercel.app) · [code](https://github.com/Godsdar/CineShelf) |
 | <img src="./assets/previews/lingua.png" width="260"> | **Lingua**<br>An etymology explorer that shares one core across a web app, a Chrome extension and an Electron desktop app. | [demo](https://godsdar.github.io/lingua/) · [code](https://github.com/Godsdar/lingua) |
 | <img src="./assets/previews/chess-engine.png" width="260"> | **chess-engine**<br>A chess board that plays back, with a minimax and alpha-beta engine in TypeScript. | [demo](https://godsdar.github.io/chess-engine/) · [code](https://github.com/Godsdar/chess-engine) |
 | <img src="./assets/previews/tesseract.png" width="260"> | **Tesseract**<br>A 4D hypercube rendered in the browser with three.js. | [demo](https://godsdar.github.io/Tesseract/) · [code](https://github.com/Godsdar/Tesseract) |
-| <img src="./assets/previews/cineshelf.jpg" width="260"> | **CineShelf**<br>A movie search app with real posters, a personal watchlist and sign-in. Next.js 16, PostgreSQL and Auth.js, with Vitest tests and CI. | [demo](https://cine-shelf-lemon.vercel.app) · [code](https://github.com/Godsdar/CineShelf) |
 
-Also on GitHub: **[Serenity](https://github.com/Godsdar/Serenity)** (a Laravel 12 and React blog with PHPUnit tests), a **[React + Laravel blog](https://github.com/Godsdar/Simple-blog-React-Laravel-REST-API-)**, and **[astro-local-landing](https://godsdar.github.io/astro-local-landing/)** (an Astro and TypeScript landing starter with Vitest tests, CI and a live demo; [code](https://github.com/Godsdar/astro-local-landing)).
+Also on GitHub: **[Serenity](https://github.com/Godsdar/Serenity)** (a Laravel 12 and React blog), a **[React + Laravel blog](https://github.com/Godsdar/Simple-blog-React-Laravel-REST-API-)**, and **[astro-local-landing](https://godsdar.github.io/astro-local-landing/)** (an Astro and TypeScript landing starter with Vitest tests, CI and a live demo; [code](https://github.com/Godsdar/astro-local-landing)).
 
 I also build internal business tools for a client (Telegram analytics, timesheet and back-office tooling). Those stay private.
 
@@ -37,10 +37,6 @@ Open:
 ## How I work with AI
 
 I work with coding agents a lot. I decide what to build and how it is structured, the agent writes a first version, and I read the diff and run the tests before I commit.
-
-## What I like
-
-I like the creative side of this work, the web, and AI.
 
 ## Contact
 
