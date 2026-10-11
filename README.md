@@ -6,7 +6,7 @@ I build full-stack web apps with TypeScript: Node.js and Express on the backend,
 
 I enjoy browser internals, interactive graphics and language tools.
 
-Based in Almaty (UTC+5). Open to remote part-time work and project contracts, with availability agreed in advance. English B2, Russian native, conversational Spanish.
+Based in Almaty (UTC+5). Open to remote full-time work and project contracts. English B2, Russian native, conversational Spanish.
 
 ## Projects
 
@@ -40,6 +40,6 @@ I work with coding agents a lot. I decide what to build and how it is structured
 
 ## Contact
 
-- Email: Ildar.popov.dem@gmail.com
+- Email: Ildar.popov.dev@gmail.com
 - Upwork: https://www.upwork.com/freelancers/~01fec55e21f1f0fc51
 - hh: https://almaty.hh.kz/resume/4a5654ceff107d051d0039ed1f356454725545
