@@ -40,6 +40,6 @@ I work with coding agents a lot. I decide what to build and how it is structured
 
 ## Contact
 
-- Email: ildar.popov.dev@gmail.com
+- Email: Ildar.popov.dem@gmail.com
 - Upwork: https://www.upwork.com/freelancers/~01fec55e21f1f0fc51
 - hh: https://almaty.hh.kz/resume/4a5654ceff107d051d0039ed1f356454725545
