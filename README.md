@@ -2,11 +2,11 @@
   <img src="./assets/header.svg" alt="Godsdar" width="100%">
 </div>
 
-I build web apps with React and TypeScript, and I use Laravel or Node when a project needs a backend.
+I build full-stack web apps with TypeScript: Node.js and Express on the backend, React and Next.js on the frontend. Frontend is my strongest focus; I also work with Vue 3 and Laravel.
 
 I enjoy browser internals, interactive graphics and language tools.
 
-Based in Almaty (UTC+5), looking for a remote junior frontend role. React, Next.js and TypeScript are my main focus; I also work with Vue 3. English B2, Russian native, conversational Spanish.
+Based in Almaty (UTC+5). Open to remote part-time work and project contracts, with availability agreed in advance. English B2, Russian native, conversational Spanish.
 
 ## Projects
 
