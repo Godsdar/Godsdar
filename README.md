@@ -1,32 +1,14 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Godsdar — fullstack developer. TypeScript, Node.js and React. Tokyo Night terminal and a constellation of code branches.">
+  <img src="./assets/header.svg" width="100%" alt="Hi, I'm Ildar. Fullstack developer, frontend at heart. A quiet window, a desk lamp and a laptop.">
 </p>
 
-<p align="center"><samp>TypeScript / Node.js / React · Almaty, UTC+5</samp></p>
-<p align="center">
-  <a href="#upstream">upstream</a> &nbsp;·&nbsp;
-  <a href="#things-i-build">projects</a> &nbsp;·&nbsp;
-  <a href="#say-hello">contact</a>
-</p>
+I'm Ildar, a junior fullstack developer in Almaty. I build web apps with **TypeScript, Node.js / Express and React / Next.js**. Frontend is my strongest side, and I enjoy working on the backend too. I also work with Vue 3 and Laravel.
 
-I build full-stack web apps with **TypeScript, Node.js / Express and React / Next.js**. Frontend is my strongest focus; I also work with Vue 3 and Laravel.
+I have a soft spot for Linux, especially Arch. I like understanding how browsers work and making things you can explore: where a word comes from, how a chess engine thinks, or what a four-dimensional cube might look like. You'll find a few of those experiments here, alongside more everyday web apps.
 
-My favourite corners of the web: browser internals, word histories, and graphics you can play with. That is how an etymology explorer, a chess engine and a 4D hypercube ended up next to a movie app here.
+I'm open to **remote full-time work and project contracts**. You can reach me at [ildar.popov.dev@gmail.com](mailto:ildar.popov.dev@gmail.com).
 
-## Upstream
-
-**Merged patches**
-
-- [mergepay-web #413](https://github.com/mergepay/mergepay-web/pull/413): a Vitest suite for the expense-split logic.
-- [mergepay-web #449](https://github.com/mergepay/mergepay-web/pull/449): error boundaries and fallback states for wallet and API transactions, with tests.
-- [kana-dojo #29635](https://github.com/lingdojo/kana-dojo/pull/29635): fixed a broken JSON file that stopped the idioms from loading.
-- [kana-dojo #29509](https://github.com/lingdojo/kana-dojo/pull/29509) and [#29507](https://github.com/lingdojo/kana-dojo/pull/29507): a Japanese proverb and a theme.
-
-**In review**
-
-- [excalidraw #12026](https://github.com/excalidraw/excalidraw/pull/12026): Ctrl/Cmd+S should still save while CapsLock is on.
-
-## Things I build
+## Things I've been building
 
 | Preview | Project | Links |
 | --- | --- | --- |
@@ -39,15 +21,28 @@ Also on GitHub: **[Serenity](https://github.com/Godsdar/Serenity)** (a Laravel 1
 
 I also build internal business tools for a client (Telegram analytics, timesheet and back-office tooling). Those stay private.
 
-<details>
-<summary>Behind the commits</summary>
+## A few contributions
 
-I use coding agents to draft implementations. I choose the scope and structure, review the diff and run the project checks before committing.
+Merged:
+
+- [mergepay-web #413](https://github.com/mergepay/mergepay-web/pull/413): a Vitest suite for the expense-split logic.
+- [mergepay-web #449](https://github.com/mergepay/mergepay-web/pull/449): error boundaries and fallback states for wallet and API transactions, with tests.
+- [kana-dojo #29635](https://github.com/lingdojo/kana-dojo/pull/29635): fixed a broken JSON file that stopped the idioms from loading.
+- [kana-dojo #29509](https://github.com/lingdojo/kana-dojo/pull/29509) and [#29507](https://github.com/lingdojo/kana-dojo/pull/29507): a Japanese proverb and a theme.
+
+Still open:
+
+- [excalidraw #12026](https://github.com/excalidraw/excalidraw/pull/12026): Ctrl/Cmd+S should still save while CapsLock is on.
+
+<details>
+<summary>A little about how I work</summary>
+
+I use coding agents to draft implementations. I choose what to build and how to structure it, read the diff and run the project checks before committing.
 
 </details>
 
 ## Say hello
 
-Open to **remote full-time work and project contracts**. English B2, Russian native, conversational Spanish.
+[Email](mailto:ildar.popov.dev@gmail.com) · [Upwork](https://www.upwork.com/freelancers/~01fec55e21f1f0fc51) · [hh](https://almaty.hh.kz/resume/4a5654ceff107d051d0039ed1f356454725545)
 
-[ildar.popov.dev@gmail.com](mailto:ildar.popov.dev@gmail.com) · [Upwork](https://www.upwork.com/freelancers/~01fec55e21f1f0fc51) · [hh](https://almaty.hh.kz/resume/4a5654ceff107d051d0039ed1f356454725545)
+Almaty, UTC+5. Russian native, English B2, conversational Spanish.

@@ -1,50 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-<title id="title">Godsdar — fullstack developer</title>
-<desc id="desc">Tokyo Night terminal with a constellation of connected code branches. TypeScript, Node.js, React. Open source, language tools and interactive graphics.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Hi, I'm Ildar. Fullstack developer.</title>
+<desc id="desc">A quiet evening window, a desk lamp, a plant and a laptop. TypeScript, Node.js, React and a fondness for Linux and Arch.</desc>
 <defs>
- <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#16161e"/><stop offset="1" stop-color="#24283b"/></linearGradient>
- <linearGradient id="light" x2="1" y2="0"><stop stop-color="#7aa2f7"/><stop offset=".55" stop-color="#bb9af7"/><stop offset="1" stop-color="#7dcfff"/></linearGradient>
- <radialGradient id="glow"><stop stop-color="#7aa2f7" stop-opacity=".16"/><stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/></radialGradient>
- <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#565f89" stroke-opacity=".14"/></pattern>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#1a1b26"/><stop offset="1" stop-color="#29283c"/></linearGradient>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#242b47"/><stop offset="1" stop-color="#464265"/></linearGradient>
+ <radialGradient id="lamp"><stop stop-color="#e0af91" stop-opacity=".16"/><stop offset="1" stop-color="#e0af91" stop-opacity="0"/></radialGradient>
 </defs>
-<rect x="1" y="1" width="1198" height="418" rx="20" fill="url(#bg)" stroke="#414868"/>
-<rect x="1" y="1" width="1198" height="418" rx="20" fill="url(#grid)"/>
-<circle cx="960" cy="210" r="260" fill="url(#glow)"/>
-<path d="M21 1H1179" stroke="url(#light)" stroke-width="2"/>
-<path d="M1 53H1199" stroke="#414868"/>
-<circle cx="29" cy="28" r="5" fill="#f7768e"/><circle cx="47" cy="28" r="5" fill="#e0af68"/><circle cx="65" cy="28" r="5" fill="#9ece6a"/>
-<g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">
- <text x="91" y="33" font-size="13" fill="#a9b1d6">~/godsdar</text>
- <text x="1168" y="33" text-anchor="end" font-size="11" letter-spacing="2" fill="#a9b1d6">TOKYO NIGHT / 01</text>
- <text x="52" y="113" font-size="15"><tspan fill="#9ece6a">❯</tspan><tspan x="73" fill="#a9b1d6">whoami</tspan></text>
- <text x="48" y="185" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-3" fill="#c0caf5">Godsdar<tspan fill="#7dcfff">_</tspan></text>
- <text x="52" y="226" font-size="18" fill="#bb9af7">fullstack developer / frontend-minded</text>
- <text x="52" y="263" font-size="15" fill="#a9b1d6">TypeScript <tspan fill="#565f89">·</tspan> Node.js <tspan fill="#565f89">·</tspan> React <tspan fill="#565f89">·</tspan> Next.js</text>
- <g transform="translate(52 293)">
-  <rect width="122" height="30" rx="6" fill="#7aa2f7" fill-opacity=".09" stroke="#7aa2f7" stroke-opacity=".4"/>
-  <text x="61" y="20" text-anchor="middle" font-size="12" fill="#7aa2f7">open source</text>
-  <rect x="134" width="133" height="30" rx="6" fill="#bb9af7" fill-opacity=".09" stroke="#bb9af7" stroke-opacity=".4"/>
-  <text x="200" y="20" text-anchor="middle" font-size="12" fill="#bb9af7">language tools</text>
-  <rect x="279" width="122" height="30" rx="6" fill="#7dcfff" fill-opacity=".09" stroke="#7dcfff" stroke-opacity=".4"/>
-  <text x="340" y="20" text-anchor="middle" font-size="12" fill="#7dcfff">web graphics</text>
+<rect x="1" y="1" width="1198" height="398" rx="22" fill="url(#bg)" stroke="#414158"/>
+<circle cx="860" cy="295" r="140" fill="url(#lamp)"/>
+<g font-family="Inter,'Segoe UI',Arial,sans-serif">
+ <text x="56" y="72" font-family="Consolas,'Liberation Mono',monospace" font-size="13" fill="#b4a4c6">godsdar@github:~</text>
+ <text x="52" y="151" font-size="60" font-weight="650" letter-spacing="-2" fill="#e1def2">Hi, I'm Ildar<tspan fill="#e0af91">.</tspan></text>
+ <text x="56" y="195" font-size="23" fill="#c4b6dc">Fullstack developer, frontend at heart.</text>
+ <text x="56" y="235" font-size="17" fill="#aab2d1">TypeScript · Node.js / Express · React / Next.js</text>
+ <text x="56" y="286" font-size="16" fill="#c7bdce">Word histories. Browser internals. A bit of 3D.</text>
+ <g font-family="Consolas,'Liberation Mono',monospace" font-size="12">
+  <text x="56" y="332" fill="#9fbfb6">Linux / Arch</text><text x="174" y="332" fill="#676780">·</text><text x="195" y="332" fill="#b4a4c6">open source</text>
+  <text x="56" y="371" fill="#aab2d1">Almaty, UTC+5</text>
  </g>
- <text x="52" y="383" font-size="12" fill="#a9b1d6">ALMATY / UTC+5</text>
- <text x="1160" y="383" text-anchor="end" font-size="12" fill="#9ece6a">remote full-time + contracts</text>
 </g>
-<!-- A git-shaped constellation, drawn entirely with native SVG. -->
-<g fill="none" stroke-width="1.4">
- <ellipse cx="940" cy="215" rx="150" ry="108" stroke="#565f89" stroke-dasharray="3 9"/>
- <ellipse cx="940" cy="215" rx="99" ry="158" transform="rotate(40 940 215)" stroke="#414868"/>
- <path d="M872 303V151Q872 125 898 125H998Q1024 125 1024 151V187Q1024 213 998 213H924Q898 213 898 239V303" stroke="url(#light)" stroke-width="2.5"/>
- <path d="M898 239L956 281H1061M924 213L956 168H1083" stroke="#7dcfff" stroke-opacity=".55"/>
- <path d="M811 182L850 155M1060 106L1077 90M1057 308L1083 325" stroke="#565f89"/>
+<!-- A quiet window, desk and the tools of an ordinary working evening. -->
+<g>
+ <rect x="871" y="50" width="249" height="238" rx="62" fill="#171923" stroke="#56516c" stroke-width="2"/>
+ <rect x="883" y="62" width="225" height="214" rx="52" fill="url(#sky)"/>
+ <circle cx="1047" cy="109" r="19" fill="#e7d7bc"/>
+ <circle cx="1054" cy="101" r="18" fill="#2a304d"/>
+ <g fill="#b3acd5" opacity=".7"><circle cx="927" cy="100" r="1.5"/><circle cx="984" cy="139" r="1.4"/><circle cx="1014" cy="84" r="1"/><circle cx="1076" cy="168" r="1.5"/></g>
+ <path d="M883 244L936 199L966 231L1029 192L1108 244V276H883Z" fill="#333951"/>
+ <path d="M883 262L941 241L1005 266L1069 226L1108 250V276H883Z" fill="#292e43"/>
+ <path d="M995 63V276M883 181H1108" stroke="#56516c" stroke-width="5"/>
+ <rect x="860" y="288" width="271" height="8" rx="4" fill="#696077"/>
+ <!-- lamp -->
+ <path d="M763 320H802M783 319V243L825 210" fill="none" stroke="#b29b99" stroke-width="5" stroke-linecap="round"/>
+ <path d="M815 192Q829 185 838 195L854 218L808 235Z" fill="#d5aa92"/>
+ <path d="M809 236L853 218L888 314H771Z" fill="#edc096" opacity=".045"/>
+ <!-- laptop -->
+ <rect x="861" y="263" width="151" height="93" rx="7" fill="#161822" stroke="#7a718c" stroke-width="2"/>
+ <path d="M874 285L879 289L874 293" fill="none" stroke="#a8c7a3" stroke-width="2"/><path d="M887 293H901" stroke="#b8a7d9" stroke-width="2"/>
+ <path d="M874 307H921M874 317H907M930 307H953" stroke="#666787" stroke-width="2" stroke-linecap="round"/>
+ <!-- tiny Arch-inspired mark -->
+ <path d="M979 281L989 299H983L979 291L975 299H969Z" fill="#8ab6ce" opacity=".8"/>
+ <path d="M847 356H1026L1012 364H861Z" fill="#95839d"/>
+ <!-- plant -->
+ <path d="M1075 317V239" stroke="#819e8a" stroke-width="3"/>
+ <path d="M1075 270Q1041 273 1045 247Q1071 247 1075 270M1075 285Q1107 280 1105 254Q1079 259 1075 285M1075 249Q1063 226 1083 213Q1095 236 1075 249" fill="#8ba995"/>
+ <path d="M1052 313H1097L1091 349H1058Z" fill="#b78e8d"/>
+ <path d="M1057 318H1092" stroke="#d6aaa0" stroke-width="2"/>
+ <!-- desk -->
+ <rect x="749" y="364" width="384" height="7" rx="3.5" fill="#8f7a87"/>
 </g>
-<g fill="#1a1b26" stroke-width="2.5">
- <circle cx="872" cy="151" r="8" stroke="#7aa2f7"/><circle cx="872" cy="226" r="8" stroke="#7aa2f7"/><circle cx="872" cy="303" r="8" stroke="#7aa2f7"/>
- <circle cx="1024" cy="166" r="8" stroke="#bb9af7"/><circle cx="898" cy="263" r="8" stroke="#bb9af7"/><circle cx="898" cy="303" r="8" stroke="#bb9af7"/>
- <circle cx="1083" cy="168" r="5" stroke="#7dcfff"/><circle cx="1061" cy="281" r="5" stroke="#7dcfff"/>
-</g>
-<g font-family="Consolas,'Liberation Mono',monospace" font-size="11" fill="#a9b1d6"><text x="835" y="337">main</text><text x="903" y="337">feature/*</text></g>
-<g fill="#bb9af7"><circle cx="790" cy="116" r="2"/><circle cx="1110" cy="220" r="2"/><circle cx="972" cy="89" r="2"/></g>
-<g fill="#7dcfff"><path d="M1132 126v10m-5-5h10M775 284v10m-5-5h10" stroke="#7dcfff"/></g>
 </svg>
