@@ -3,7 +3,7 @@
   <img src="./assets/header-wide.svg" width="100%" alt="Godsdar. software engineer: Node.js, TypeScript and React. Open source contributions, tests and CI.">
 </picture>
 
-Hi, I'm Ildar, a junior software engineer in Almaty. I build with **Node.js / Express, TypeScript and React / Next.js**, with a little more focus on frontend. I also work with Vue 3 and Laravel.
+Hi, I'm Ildar, a software engineer in Almaty. I build with **Node.js / Express, TypeScript and React / Next.js**, with a little more focus on frontend. I also work with Vue 3 and Laravel.
 
 I contribute tests and bug fixes to open source. I also enjoy exploring word histories, chess and browser graphics through code.
 
