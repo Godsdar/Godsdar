@@ -1,11 +1,11 @@
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg">
-  <img src="./assets/header-wide.svg" width="100%" alt="Godsdar. software engineer: Node.js, TypeScript and React. Linux, Arch and Neovim.">
+  <img src="./assets/header-wide.svg" width="100%" alt="Godsdar. software engineer: Node.js, TypeScript and React. Open source contributions, tests and CI.">
 </picture>
 
 Hi, I'm Ildar, a junior software engineer in Almaty. I build with **Node.js / Express, TypeScript and React / Next.js**, with a little more focus on frontend. I also work with Vue 3 and Laravel.
 
-I like Linux, Arch and Neovim, and tools that feel fast. Word histories, chess and browser graphics are some of the things I enjoy exploring through code.
+I contribute tests and bug fixes to open source. I also enjoy exploring word histories, chess and browser graphics through code.
 
 **Open to remote full-time work and project contracts.** UTC+5. [ildar.popov.dev@gmail.com](mailto:ildar.popov.dev@gmail.com) · [hh](https://almaty.hh.kz/resume/4a5654ceff107d051d0039ed1f356454725545) · [Upwork](https://www.upwork.com/freelancers/~01fec55e21f1f0fc51)
 
