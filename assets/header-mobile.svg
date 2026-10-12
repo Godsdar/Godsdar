@@ -1,10 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-labelledby="title desc">
-<title id="title">Godsdar</title><desc id="desc">software engineer. Node.js, TypeScript, React. Open source contributions, tests and CI.</desc>
-<rect x="1" y="1" width="598" height="258" rx="8" fill="#1a1b26" stroke="#414868"/><path d="M1 39H599" stroke="#292e42"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280" role="img" aria-labelledby="title desc">
+<title id="title">Godsdar — software engineer</title><desc id="desc">A quiet terminal window with icy blue type and a soft spectral glow. Node.js, TypeScript, React, open source, tests and CI.</desc>
+<defs>
+<linearGradient id="night" x2="1" y2="0"><stop stop-color="#16161e"/><stop offset=".55" stop-color="#1a1b26"/><stop offset="1" stop-color="#16161e"/></linearGradient>
+<radialGradient id="haze"><stop stop-color="#7aa2f7" stop-opacity=".11"/><stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/></radialGradient>
+<linearGradient id="edge" x2="1" y2="0"><stop stop-color="#414868" stop-opacity=".35"/><stop offset=".5" stop-color="#7aa2f7" stop-opacity=".65"/><stop offset="1" stop-color="#414868" stop-opacity=".2"/></linearGradient>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 3H4" stroke="#c0caf5" stroke-opacity=".018"/></pattern>
+</defs>
+<rect x="1" y="1" width="598" height="278" rx="8" fill="url(#night)" stroke="#292e42"/>
+<ellipse cx="330" cy="173" rx="288" ry="173" fill="url(#haze)"/>
+<rect x="1" y="1" width="598" height="278" rx="8" fill="url(#scan)"/>
+<path d="M9 1H591M9 279H591" stroke="url(#edge)"/>
+<path d="M1 38H599" stroke="#292e42"/>
 <g font-family="'SFMono-Regular','Liberation Mono',Consolas,monospace">
-<text x="27" y="27" font-size="17" fill="#a9b1d6">~/Godsdar/README.md</text><circle cx="570" cy="21" r="4" fill="#9ece6a"/>
-<text x="27" y="98" font-size="50" font-weight="600" fill="#c0caf5">Godsdar<tspan fill="#9ece6a">_</tspan></text>
-<text x="29" y="148" font-size="23" fill="#a9b1d6">software engineer</text>
-<text x="29" y="191" font-size="25" fill="#7aa2f7">Node.js / TypeScript / React</text>
-<text x="29" y="231" font-size="23" fill="#bb9af7">Open source · Tests · CI</text>
-</g></svg>
+<text x="30" y="25" font-size="13" fill="#a9b1d6">~/Godsdar</text>
+<text x="572" y="25" text-anchor="end" font-size="13" fill="#565f89">—  □  ×</text>
+<!-- One displaced outline acts as a restrained phosphor afterimage. -->
+<text x="32" y="122" font-size="64" font-weight="600" letter-spacing="-2" fill="none" stroke="#7aa2f7" stroke-width=".6" opacity=".2">Godsdar</text>
+<text x="30" y="120" font-size="64" font-weight="600" letter-spacing="-2" fill="#c0caf5">Godsdar<tspan fill="#7aa2f7">▍</tspan></text>
+<text x="32" y="164" font-size="24" fill="#bb9af7">software engineer</text>
+<text x="32" y="208" font-size="24" fill="#7aa2f7">Node.js / TypeScript / React</text>
+<text x="30" y="251" font-size="19" fill="#a9b1d6">Open source · Tests · CI</text>
+</g>
+</svg>
