@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="190" viewBox="0 0 1100 190" role="img" aria-labelledby="title desc">
 <title id="title">Godsdar</title>
-<desc id="desc">A compact editor-inspired wordmark. Fullstack development with Node.js, TypeScript and React. Small h j k l keys nod to Neovim.</desc>
+<desc id="desc">A compact editor-inspired wordmark. Software engineering with Node.js, TypeScript and React. Small h j k l keys nod to Neovim.</desc>
 <rect x="1" y="1" width="1098" height="188" rx="8" fill="#1a1b26" stroke="#414868"/>
 <path d="M1 37H1099" stroke="#292e42"/>
 <g font-family="'SFMono-Regular','Liberation Mono',Consolas,monospace">
  <text x="25" y="25" font-size="12" fill="#a9b1d6">~/godsdar/README.md</text>
  <circle cx="1068" cy="20" r="3" fill="#9ece6a"/>
  <text x="30" y="93" font-size="40" letter-spacing="-1" font-weight="600" fill="#c0caf5">godsdar<tspan fill="#9ece6a">_</tspan></text>
- <text x="30" y="131" font-size="20" fill="#a9b1d6">Fullstack developer</text>
+ <text x="30" y="131" font-size="20" fill="#a9b1d6">software engineer</text>
  <text x="30" y="165" font-size="22" fill="#7aa2f7">Node.js / TypeScript / React / Next.js</text>
  <g transform="translate(876 66)" font-size="14" text-anchor="middle">
   <g fill="#24283b" stroke="#414868"><rect width="34" height="34" rx="4"/><rect x="42" width="34" height="34" rx="4"/><rect x="84" width="34" height="34" rx="4"/><rect x="126" width="34" height="34" rx="4"/></g>
