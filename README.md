@@ -1,5 +1,5 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/header-mobile-e4a2b78258.svg">
+  <source media="(max-width: 600px)" srcset="./assets/header-mobile-ecc532acf4.svg">
   <img src="./assets/header-wide-80c8a7fb5a.svg" width="100%" alt="Godsdar · Software Engineer · From idea to working software · Open source, tests and CI">
 </picture>
 
