@@ -1,27 +1,47 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Ildar, fullstack developer. Node.js, TypeScript, React and a fondness for Linux, Arch and Neovim.">
+<p>
+  <img src="./assets/header.svg" width="100%" alt="Ildar Popov / Godsdar — fullstack developer. Node.js, TypeScript, React and Next.js. Linux, Arch and Neovim.">
 </p>
 
-I'm Ildar, a junior fullstack developer in Almaty. I build web apps with **TypeScript, Node.js / Express and React / Next.js**. Frontend is my strongest side, and I enjoy working on the backend too. I also work with Vue 3 and Laravel.
+Hi, I'm Ildar. I build fullstack apps with **Node.js / Express, TypeScript and React / Next.js**, with a little more attention to the frontend. I also work with Vue 3 and Laravel.
 
-I have a soft spot for Linux, especially Arch, and for Neovim. I like tools that feel fast and let me stay focused. I like understanding how browsers work and making things you can explore: where a word comes from, how a chess engine thinks, or what a four-dimensional cube might look like. You'll find a few of those experiments here, alongside more everyday web apps.
+I like Linux, Arch and Neovim, and tools that get out of the way. My repos wander into word histories, chess and browser graphics too. Those are the things I enjoy figuring out.
 
-I'm open to **remote full-time work and project contracts**. You can reach me at [ildar.popov.dev@gmail.com](mailto:ildar.popov.dev@gmail.com).
+**Open to remote full-time work and project contracts.** Almaty, UTC+5. [Email](mailto:ildar.popov.dev@gmail.com) · [hh](https://almaty.hh.kz/resume/4a5654ceff107d051d0039ed1f356454725545) · [Upwork](https://www.upwork.com/freelancers/~01fec55e21f1f0fc51)
 
-## Things I've been building
+## Selected projects
 
-| Preview | Project | Links |
-| --- | --- | --- |
-| <img src="./assets/previews/cineshelf.jpg" width="260"> | **CineShelf**<br>A movie search app with real posters, a personal watchlist and sign-in. Next.js 16, PostgreSQL and Auth.js, with Vitest tests and CI. | [demo](https://cine-shelf-lemon.vercel.app) · [code](https://github.com/Godsdar/CineShelf) |
-| <img src="./assets/previews/lingua.png" width="260"> | **Lingua**<br>An etymology explorer that shares one core across a web app, a Chrome extension and an Electron desktop app. | [demo](https://godsdar.github.io/lingua/) · [code](https://github.com/Godsdar/lingua) |
-| <img src="./assets/previews/chess-engine.png" width="260"> | **chess-engine**<br>A chess board that plays back, with a minimax and alpha-beta engine in TypeScript. | [demo](https://godsdar.github.io/chess-engine/) · [code](https://github.com/Godsdar/chess-engine) |
-| <img src="./assets/previews/tesseract.png" width="260"> | **Tesseract**<br>A 4D hypercube rendered in the browser with three.js. | [demo](https://godsdar.github.io/Tesseract/) · [code](https://github.com/Godsdar/Tesseract) |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Godsdar/CineShelf"><img src="./assets/previews/cineshelf.jpg" width="100%" alt="CineShelf movie catalog"></a>
+<h3><a href="https://github.com/Godsdar/CineShelf">CineShelf</a></h3>
+<p>Movie search, sign-in and a personal watchlist.<br>Next.js · PostgreSQL · Auth.js · Vitest &amp; CI</p>
+<p><a href="https://cine-shelf-lemon.vercel.app">Try it</a> · <a href="https://github.com/Godsdar/CineShelf">Code</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Godsdar/lingua"><img src="./assets/previews/lingua.png" width="100%" alt="Lingua word histories and etymology tree"></a>
+<h3><a href="https://github.com/Godsdar/lingua">Lingua</a></h3>
+<p>Explore word histories across languages.<br>One TypeScript core for web, Chrome &amp; Electron</p>
+<p><a href="https://godsdar.github.io/lingua/">Try it</a> · <a href="https://github.com/Godsdar/lingua">Code</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Godsdar/chess-engine"><img src="./assets/previews/chess-engine.png" width="100%" alt="Chess board with a TypeScript engine"></a>
+<h3><a href="https://github.com/Godsdar/chess-engine">chess-engine</a></h3>
+<p>A chess board that plays back.<br>TypeScript · React · minimax + alpha-beta</p>
+<p><a href="https://godsdar.github.io/chess-engine/">Play</a> · <a href="https://github.com/Godsdar/chess-engine">Code</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Godsdar/Tesseract"><img src="./assets/previews/tesseract.png" width="100%" alt="Interactive 4D hypercube wireframe"></a>
+<h3><a href="https://github.com/Godsdar/Tesseract">Tesseract</a></h3>
+<p>A little window into four dimensions.<br>Interactive 4D wireframe · three.js</p>
+<p><a href="https://godsdar.github.io/Tesseract/">Explore</a> · <a href="https://github.com/Godsdar/Tesseract">Code</a></p>
+</td>
+</tr>
+</table>
 
-Also on GitHub: **[Serenity](https://github.com/Godsdar/Serenity)** (a Laravel 12 and React blog), a **[React + Laravel blog](https://github.com/Godsdar/Simple-blog-React-Laravel-REST-API-)**, and **[astro-local-landing](https://godsdar.github.io/astro-local-landing/)** (an Astro and TypeScript landing starter with Vitest tests, CI and a live demo; [code](https://github.com/Godsdar/astro-local-landing)).
-
-I also build internal business tools for a client (Telegram analytics, timesheet and back-office tooling). Those stay private.
-
-## A few contributions
+## Open source
 
 Merged:
 
@@ -35,14 +55,16 @@ Still open:
 - [excalidraw #12026](https://github.com/excalidraw/excalidraw/pull/12026): Ctrl/Cmd+S should still save while CapsLock is on.
 
 <details>
-<summary>A little about how I work</summary>
+<summary>A few more things</summary>
 
-I use coding agents to draft implementations. I choose what to build and how to structure it, read the diff and run the project checks before committing.
+- [astro-local-landing](https://github.com/Godsdar/astro-local-landing): an Astro and TypeScript landing starter with Vitest tests, CI and a [live demo](https://godsdar.github.io/astro-local-landing/).
+- [Serenity](https://github.com/Godsdar/Serenity): a Laravel 12 and React blog.
+- [React + Laravel blog](https://github.com/Godsdar/Simple-blog-React-Laravel-REST-API-).
+
+I also build internal business tools: Telegram analytics, timesheet and back-office tooling. Those repositories stay private.
+
+I use coding agents to draft implementations. I choose the scope and structure, read the diff and run the project checks before committing.
 
 </details>
 
-## Say hello
-
-[Email](mailto:ildar.popov.dev@gmail.com) · [Upwork](https://www.upwork.com/freelancers/~01fec55e21f1f0fc51) · [hh](https://almaty.hh.kz/resume/4a5654ceff107d051d0039ed1f356454725545)
-
-Almaty, UTC+5. Russian native, English B2, conversational Spanish.
+Russian native · English B2 · conversational Spanish
