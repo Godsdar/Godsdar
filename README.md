@@ -3,9 +3,11 @@
   <img src="./assets/header-wide.svg" width="100%" alt="Godsdar. software engineer: Node.js, TypeScript and React. Open source contributions, tests and CI.">
 </picture>
 
-Hi, I'm Ildar, a software engineer in Almaty. I build with **Node.js / Express, TypeScript and React / Next.js**, with a little more focus on frontend. I also work with Vue 3 and Laravel.
+I'm Ildar, a software engineer with hands-on experience building full-stack apps and internal business tools. I work with **Node.js / Express, TypeScript and React / Next.js**, with a strong focus on frontend. I also work with Vue 3 and Laravel.
 
-I contribute tests and bug fixes to open source. I also enjoy exploring word histories, chess and browser graphics through code.
+My client work includes Telegram analytics, timesheets and back-office tools. In open source, my contributions include merged PRs for expense-split tests and wallet/API error handling in MergePay. You can inspect the code and reviews below.
+
+I enjoy figuring out how things work, from word histories to chess engines and browser graphics.
 
 **Open to remote full-time work and project contracts.** UTC+5. [ildar.popov.dev@gmail.com](mailto:ildar.popov.dev@gmail.com) · [hh](https://almaty.hh.kz/resume/4a5654ceff107d051d0039ed1f356454725545) · [Upwork](https://www.upwork.com/freelancers/~01fec55e21f1f0fc51)
 
