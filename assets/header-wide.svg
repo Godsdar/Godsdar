@@ -25,6 +25,6 @@
 <rect x="348" y="104" width="9" height="62" fill="#7aa2f7"/>
 <text x="48" y="210" font-size="24" fill="#bb9af7">Software Engineer</text>
 <text x="632" y="131" font-size="26" fill="#7aa2f7">From idea</text>
-<text x="632" y="170" font-size="26" fill="#c0caf5">to working software</text>
+<text x="632" y="170" font-size="26" fill="#7aa2f7">to working software</text>
 <text x="634" y="226" font-size="18" fill="#a9b1d6">Open source · Tests · CI</text>
 </g></svg>
