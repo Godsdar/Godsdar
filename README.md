@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg">
-  <img src="./assets/header-wide.svg" width="100%" alt="Ildar Popov / Godsdar. Fullstack developer: Node.js, TypeScript and React. Linux, Arch and Neovim.">
+  <img src="./assets/header-wide.svg" width="100%" alt="Godsdar. Fullstack developer: Node.js, TypeScript and React. Linux, Arch and Neovim.">
 </picture>
 
 Hi, I'm Ildar, a junior fullstack developer in Almaty. I build with **Node.js / Express, TypeScript and React / Next.js**, with a little more focus on frontend. I also work with Vue 3 and Laravel.
@@ -11,42 +11,41 @@ I like Linux, Arch and Neovim, and tools that feel fast. Word histories, chess a
 
 ## Selected projects
 
-### [CineShelf](https://github.com/Godsdar/CineShelf)
-
-Movie search, sign-in and a personal watchlist. Next.js, PostgreSQL and Auth.js, with Vitest tests and CI.
-
-[Live demo](https://cine-shelf-lemon.vercel.app) · [Source](https://github.com/Godsdar/CineShelf) · [CI](https://github.com/Godsdar/CineShelf/actions/workflows/ci.yml)
-
-<a href="https://cine-shelf-lemon.vercel.app"><img src="./assets/previews/cineshelf.jpg" width="480" alt="CineShelf movie catalog with search and watchlist"></a>
-
-### [Lingua](https://github.com/Godsdar/lingua)
-
-Explore word histories across languages. One TypeScript core shared by a web app, a Chrome extension and an Electron desktop app.
-
-[Live demo](https://godsdar.github.io/lingua/) · [Source](https://github.com/Godsdar/lingua)
-
-<a href="https://godsdar.github.io/lingua/"><img src="./assets/previews/lingua.png" width="480" alt="Lingua word analysis and etymology tree"></a>
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Godsdar/CineShelf"><img src="./assets/previews/cineshelf.jpg" width="100%" alt="CineShelf movie catalog"></a>
+<h3><a href="https://github.com/Godsdar/CineShelf">CineShelf</a></h3>
+<p>Movie search, sign-in and a personal watchlist.<br>Next.js · PostgreSQL · Auth.js · Vitest &amp; CI</p>
+<p><a href="https://cine-shelf-lemon.vercel.app">Try it</a> · <a href="https://github.com/Godsdar/CineShelf">Code</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Godsdar/lingua"><img src="./assets/previews/lingua.png" width="100%" alt="Lingua word histories and etymology tree"></a>
+<h3><a href="https://github.com/Godsdar/lingua">Lingua</a></h3>
+<p>Explore word histories across languages.<br>One TypeScript core for web, Chrome &amp; Electron</p>
+<p><a href="https://godsdar.github.io/lingua/">Try it</a> · <a href="https://github.com/Godsdar/lingua">Code</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Godsdar/chess-engine"><img src="./assets/previews/chess-engine.png" width="100%" alt="Chess board with a TypeScript engine"></a>
+<h3><a href="https://github.com/Godsdar/chess-engine">chess-engine</a></h3>
+<p>A chess board that plays back.<br>TypeScript · React · minimax + alpha-beta</p>
+<p><a href="https://godsdar.github.io/chess-engine/">Play</a> · <a href="https://github.com/Godsdar/chess-engine">Code</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Godsdar/Tesseract"><img src="./assets/previews/tesseract.png" width="100%" alt="Interactive 4D hypercube wireframe"></a>
+<h3><a href="https://github.com/Godsdar/Tesseract">Tesseract</a></h3>
+<p>A little window into four dimensions.<br>Interactive 4D wireframe · three.js</p>
+<p><a href="https://godsdar.github.io/Tesseract/">Explore</a> · <a href="https://github.com/Godsdar/Tesseract">Code</a></p>
+</td>
+</tr>
+</table>
 
 <details>
-<summary>Chess, graphics and a few more projects</summary>
+<summary>A few more projects</summary>
 
-### [chess-engine](https://github.com/Godsdar/chess-engine)
-
-A chess board that plays back. TypeScript, React, minimax and alpha-beta pruning.
-
-[Play](https://godsdar.github.io/chess-engine/) · [Source](https://github.com/Godsdar/chess-engine)
-
-<img src="./assets/previews/chess-engine.png" width="480" alt="Chess board with a TypeScript engine">
-
-### [Tesseract](https://github.com/Godsdar/Tesseract)
-
-An interactive 4D hypercube wireframe in the browser, built with three.js.
-
-[Explore](https://godsdar.github.io/Tesseract/) · [Source](https://github.com/Godsdar/Tesseract)
-
-<img src="./assets/previews/tesseract.png" width="480" alt="Interactive 4D hypercube wireframe">
-
-- [astro-local-landing](https://github.com/Godsdar/astro-local-landing): an Astro and TypeScript landing starter with Vitest tests, CI and a [live demo](https://godsdar.github.io/astro-local-landing/).
+- [astro-local-landing](https://github.com/Godsdar/astro-local-landing): Astro and TypeScript, Vitest, CI and a [live demo](https://godsdar.github.io/astro-local-landing/).
 - [Serenity](https://github.com/Godsdar/Serenity): a Laravel 12 and React blog.
 - [React + Laravel blog](https://github.com/Godsdar/Simple-blog-React-Laravel-REST-API-).
 
