@@ -1,44 +1,44 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/header-mobile-eae86171ed.svg">
-  <img src="./assets/header-wide-c4dcd58aa7.svg" width="100%" alt="Godsdar. Software Engineer. From idea to working software Open source, tests and CI.">
+  <source media="(max-width: 600px)" srcset="./assets/header-mobile-e4a2b78258.svg">
+  <img src="./assets/header-wide-80c8a7fb5a.svg" width="100%" alt="Godsdar · Software Engineer · From idea to working software · Open source, tests and CI">
 </picture>
 
-I'm Ildar, a Software Engineer with hands-on experience building full-stack apps and internal business tools. I work with **Node.js / Express, TypeScript and React / Next.js**, with a strong focus on frontend. I also work with Vue 3 and Laravel.
+I'm Ildar, a Software Engineer experienced with **Node.js / Express, TypeScript and React / Next.js**. I build full-stack apps and internal business tools, with a strong focus on frontend.
 
-My client work includes Telegram analytics, timesheets and back-office tools. In open source, my contributions include merged PRs for expense-split tests and wallet/API error handling in MergePay. You can inspect the code and reviews below.
+My work includes client tools for Telegram analytics, timesheets and back-office workflows, and merged tests and fixes in MergePay. I also enjoy exploring word histories, chess engines and browser graphics.
 
-I enjoy figuring out how things work, from word histories to chess engines and browser graphics.
+**Open to remote full-time work and project contracts.** Almaty, UTC+5.
 
-**Open to remote full-time work and project contracts.** UTC+5. [ildar.popov.dev@gmail.com](mailto:ildar.popov.dev@gmail.com) · [hh](https://almaty.hh.kz/resume/4a5654ceff107d051d0039ed1f356454725545) · [Upwork](https://www.upwork.com/freelancers/~01fec55e21f1f0fc51)
+[ildar.popov.dev@gmail.com](mailto:ildar.popov.dev@gmail.com) · [hh](https://almaty.hh.kz/resume/4a5654ceff107d051d0039ed1f356454725545) · [Upwork](https://www.upwork.com/freelancers/~01fec55e21f1f0fc51)
 
 ## Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Godsdar/CineShelf"><img src="./assets/previews/cineshelf.jpg" width="100%" alt="CineShelf movie catalog"></a>
 <h3><a href="https://github.com/Godsdar/CineShelf">CineShelf</a></h3>
 <p>Movie search, sign-in and a personal watchlist.<br>Next.js · PostgreSQL · Auth.js · Vitest &amp; CI</p>
+<a href="https://github.com/Godsdar/CineShelf"><img src="./assets/previews/cineshelf.jpg" width="100%" alt="CineShelf movie catalog"></a>
 <p><a href="https://cine-shelf-lemon.vercel.app">Try it</a> · <a href="https://github.com/Godsdar/CineShelf">Code</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Godsdar/lingua"><img src="./assets/previews/lingua.png" width="100%" alt="Lingua word histories and etymology tree"></a>
 <h3><a href="https://github.com/Godsdar/lingua">Lingua</a></h3>
 <p>Explore word histories across languages.<br>One TypeScript core for web, Chrome &amp; Electron</p>
+<a href="https://github.com/Godsdar/lingua"><img src="./assets/previews/lingua.png" width="100%" alt="Lingua word histories and etymology tree"></a>
 <p><a href="https://godsdar.github.io/lingua/">Try it</a> · <a href="https://github.com/Godsdar/lingua">Code</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Godsdar/chess-engine"><img src="./assets/previews/chess-engine.png" width="100%" alt="Chess board with a TypeScript engine"></a>
 <h3><a href="https://github.com/Godsdar/chess-engine">chess-engine</a></h3>
 <p>A chess board that plays back.<br>TypeScript · React · minimax + alpha-beta</p>
+<a href="https://github.com/Godsdar/chess-engine"><img src="./assets/previews/chess-engine.png" width="100%" alt="Chess board with a TypeScript engine"></a>
 <p><a href="https://godsdar.github.io/chess-engine/">Play</a> · <a href="https://github.com/Godsdar/chess-engine">Code</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Godsdar/Tesseract"><img src="./assets/previews/tesseract.png" width="100%" alt="Interactive 4D hypercube wireframe"></a>
 <h3><a href="https://github.com/Godsdar/Tesseract">Tesseract</a></h3>
 <p>A little window into four dimensions.<br>Interactive 4D wireframe · three.js</p>
+<a href="https://github.com/Godsdar/Tesseract"><img src="./assets/previews/tesseract.png" width="100%" alt="Interactive 4D hypercube wireframe"></a>
 <p><a href="https://godsdar.github.io/Tesseract/">Explore</a> · <a href="https://github.com/Godsdar/Tesseract">Code</a></p>
 </td>
 </tr>
@@ -69,7 +69,7 @@ Still open:
 <details>
 <summary>A little about how I work</summary>
 
-I also build internal business tools: Telegram analytics, timesheet and back-office tooling. Those repositories stay private.
+I also work with Vue 3 and Laravel. The client repositories stay private.
 
 I use coding agents to draft implementations. I choose the scope and structure, read the diff and run the project checks before committing.
 

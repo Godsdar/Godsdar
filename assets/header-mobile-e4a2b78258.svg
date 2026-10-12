@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="586" height="296" viewBox="7 7 586 296" role="img" aria-labelledby="title desc">
+<title id="title">Godsdar — Software Engineer</title><desc id="desc">A translucent macOS-style terminal with soft blurred blue and purple light. From idea to working software Open source, tests and CI.</desc>
+<defs>
+<filter id="blur" x="-60%" y="-100%" width="220%" height="300%"><feGaussianBlur stdDeviation="28"/></filter>
+<linearGradient id="glass" x2="1" y2="1"><stop stop-color="#1a1b26" stop-opacity=".83"/><stop offset=".5" stop-color="#24283b" stop-opacity=".72"/><stop offset="1" stop-color="#1a1b26" stop-opacity=".85"/></linearGradient>
+<linearGradient id="edge" x2="1" y2="0"><stop stop-color="#c0caf5" stop-opacity=".3"/><stop offset=".5" stop-color="#7aa2f7" stop-opacity=".5"/><stop offset="1" stop-color="#c0caf5" stop-opacity=".18"/></linearGradient>
+<clipPath id="window"><rect x="8" y="8" width="584" height="294" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#window)">
+<rect x="8" y="8" width="584" height="294" fill="#16161e"/>
+<g filter="url(#blur)">
+<ellipse cx="468" cy="248" rx="198" ry="186" fill="#7aa2f7" opacity=".46"/>
+<ellipse cx="582" cy="31" rx="168" ry="210" fill="#bb9af7" opacity=".42"/>
+<ellipse cx="222" cy="288" rx="132" ry="130" fill="#7dcfff" opacity=".15"/>
+</g>
+<rect x="8" y="8" width="584" height="294" fill="url(#glass)"/>
+<rect x="8" y="8" width="584" height="45" fill="#16161e" fill-opacity=".55"/>
+<path d="M8 53H592" stroke="#c0caf5" stroke-opacity=".09"/>
+</g>
+<rect x="8.5" y="8.5" width="583" height="293" rx="14" fill="none" stroke="url(#edge)"/>
+<circle cx="29" cy="30" r="6" fill="#ff5f57"/><circle cx="49" cy="30" r="6" fill="#febc2e"/><circle cx="69" cy="30" r="6" fill="#28c840"/>
+<g font-family="'SFMono-Regular','Liberation Mono',Consolas,monospace">
+<text x="300" y="35" text-anchor="middle" font-size="13" fill="#a9b1d6">~/Godsdar — zsh</text>
+<text x="32" y="135" font-size="60" font-weight="600" letter-spacing="-2" fill="#c0caf5">Godsdar</text>
+<rect x="286" y="91" width="8" height="51" fill="#7aa2f7"/>
+<text x="34" y="179" font-size="26" fill="#bb9af7">Software Engineer</text>
+<text x="34" y="223" font-size="23" fill="#7aa2f7">From idea to working software</text>
+<text x="34" y="269" font-size="21" fill="#a9b1d6">Open source · Tests · CI</text>
+</g></svg>
