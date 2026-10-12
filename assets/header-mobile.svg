@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="238" viewBox="0 0 600 238" role="img" aria-labelledby="title desc">
+<title id="title">Ildar Popov / Godsdar</title><desc id="desc">Fullstack developer. Node.js, TypeScript, React. Linux, Arch and Neovim.</desc>
+<rect x="1" y="1" width="598" height="236" rx="8" fill="#1a1b26" stroke="#414868"/><path d="M1 39H599" stroke="#292e42"/>
+<g font-family="'SFMono-Regular','Liberation Mono',Consolas,monospace">
+<text x="27" y="27" font-size="17" fill="#a9b1d6">~/godsdar/README.md</text><circle cx="570" cy="21" r="4" fill="#9ece6a"/>
+<text x="27" y="98" font-size="50" font-weight="600" fill="#c0caf5">godsdar<tspan fill="#9ece6a">_</tspan></text>
+<text x="29" y="136" font-size="23" fill="#a9b1d6">Ildar Popov · fullstack developer</text>
+<text x="29" y="178" font-size="25" fill="#7aa2f7">Node.js / TypeScript / React</text>
+<text x="29" y="216" font-size="23" fill="#bb9af7">Linux · Arch · Neovim</text>
+</g></svg>
