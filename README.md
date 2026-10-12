@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Hi, I'm Ildar. Fullstack developer, frontend at heart. A quiet window, a desk lamp and a laptop.">
+  <img src="./assets/header.svg" width="100%" alt="Ildar, fullstack developer. Node.js, TypeScript, React and a fondness for Linux, Arch and Neovim.">
 </p>
 
 I'm Ildar, a junior fullstack developer in Almaty. I build web apps with **TypeScript, Node.js / Express and React / Next.js**. Frontend is my strongest side, and I enjoy working on the backend too. I also work with Vue 3 and Laravel.
 
-I have a soft spot for Linux, especially Arch. I like understanding how browsers work and making things you can explore: where a word comes from, how a chess engine thinks, or what a four-dimensional cube might look like. You'll find a few of those experiments here, alongside more everyday web apps.
+I have a soft spot for Linux, especially Arch, and for Neovim. I like tools that feel fast and let me stay focused. I like understanding how browsers work and making things you can explore: where a word comes from, how a chess engine thinks, or what a four-dimensional cube might look like. You'll find a few of those experiments here, alongside more everyday web apps.
 
 I'm open to **remote full-time work and project contracts**. You can reach me at [ildar.popov.dev@gmail.com](mailto:ildar.popov.dev@gmail.com).
 

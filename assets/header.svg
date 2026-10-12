@@ -1,52 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
-<title id="title">Hi, I'm Ildar. Fullstack developer.</title>
-<desc id="desc">A quiet evening window, a desk lamp, a plant and a laptop. TypeScript, Node.js, React and a fondness for Linux and Arch.</desc>
-<defs>
- <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#1a1b26"/><stop offset="1" stop-color="#29283c"/></linearGradient>
- <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#242b47"/><stop offset="1" stop-color="#464265"/></linearGradient>
- <radialGradient id="lamp"><stop stop-color="#e0af91" stop-opacity=".16"/><stop offset="1" stop-color="#e0af91" stop-opacity="0"/></radialGradient>
-</defs>
-<rect x="1" y="1" width="1198" height="398" rx="22" fill="url(#bg)" stroke="#414158"/>
-<circle cx="860" cy="295" r="140" fill="url(#lamp)"/>
-<g font-family="Inter,'Segoe UI',Arial,sans-serif">
- <text x="56" y="72" font-family="Consolas,'Liberation Mono',monospace" font-size="13" fill="#b4a4c6">godsdar@github:~</text>
- <text x="52" y="151" font-size="60" font-weight="650" letter-spacing="-2" fill="#e1def2">Hi, I'm Ildar<tspan fill="#e0af91">.</tspan></text>
- <text x="56" y="195" font-size="23" fill="#c4b6dc">Fullstack developer, frontend at heart.</text>
- <text x="56" y="235" font-size="17" fill="#aab2d1">TypeScript · Node.js / Express · React / Next.js</text>
- <text x="56" y="286" font-size="16" fill="#c7bdce">Word histories. Browser internals. A bit of 3D.</text>
- <g font-family="Consolas,'Liberation Mono',monospace" font-size="12">
-  <text x="56" y="332" fill="#9fbfb6">Linux / Arch</text><text x="174" y="332" fill="#676780">·</text><text x="195" y="332" fill="#b4a4c6">open source</text>
-  <text x="56" y="371" fill="#aab2d1">Almaty, UTC+5</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="340" viewBox="0 0 1100 340" role="img" aria-labelledby="title desc">
+<title id="title">Ildar Popov — fullstack developer</title>
+<desc id="desc">A minimal Neovim-inspired text editor. Node.js, TypeScript, React, Linux and Arch. No illustration, just type, line numbers and a cursor.</desc>
+<rect x="1" y="1" width="1098" height="338" rx="12" fill="#1d1f2a" stroke="#393b4e"/>
+<path d="M13 1H1087Q1099 1 1099 13V42H1V13Q1 1 13 1" fill="#181a23"/>
+<path d="M20 13H203V42H20Z" fill="#292c3a"/>
+<path d="M20 42H203" stroke="#a7be9a" stroke-width="2"/>
+<g font-family="'SFMono-Regular','Liberation Mono',Consolas,monospace">
+ <text x="39" y="30" font-size="13" fill="#c6cadb">README.md</text>
+ <text x="181" y="30" font-size="12" fill="#83879c">×</text>
+ <text x="1068" y="29" font-size="12" text-anchor="end" fill="#a7be9a">nvim</text>
+ <g font-size="13" text-anchor="end" fill="#666c82">
+  <text x="51" y="101">1</text><text x="51" y="138">2</text><text x="51" y="174">3</text><text x="51" y="208">4</text><text x="51" y="242">5</text><text x="51" y="278">6</text>
  </g>
-</g>
-<!-- A quiet window, desk and the tools of an ordinary working evening. -->
-<g>
- <rect x="871" y="50" width="249" height="238" rx="62" fill="#171923" stroke="#56516c" stroke-width="2"/>
- <rect x="883" y="62" width="225" height="214" rx="52" fill="url(#sky)"/>
- <circle cx="1047" cy="109" r="19" fill="#e7d7bc"/>
- <circle cx="1054" cy="101" r="18" fill="#2a304d"/>
- <g fill="#b3acd5" opacity=".7"><circle cx="927" cy="100" r="1.5"/><circle cx="984" cy="139" r="1.4"/><circle cx="1014" cy="84" r="1"/><circle cx="1076" cy="168" r="1.5"/></g>
- <path d="M883 244L936 199L966 231L1029 192L1108 244V276H883Z" fill="#333951"/>
- <path d="M883 262L941 241L1005 266L1069 226L1108 250V276H883Z" fill="#292e43"/>
- <path d="M995 63V276M883 181H1108" stroke="#56516c" stroke-width="5"/>
- <rect x="860" y="288" width="271" height="8" rx="4" fill="#696077"/>
- <!-- lamp -->
- <path d="M763 320H802M783 319V243L825 210" fill="none" stroke="#b29b99" stroke-width="5" stroke-linecap="round"/>
- <path d="M815 192Q829 185 838 195L854 218L808 235Z" fill="#d5aa92"/>
- <path d="M809 236L853 218L888 314H771Z" fill="#edc096" opacity=".045"/>
- <!-- laptop -->
- <rect x="861" y="263" width="151" height="93" rx="7" fill="#161822" stroke="#7a718c" stroke-width="2"/>
- <path d="M874 285L879 289L874 293" fill="none" stroke="#a8c7a3" stroke-width="2"/><path d="M887 293H901" stroke="#b8a7d9" stroke-width="2"/>
- <path d="M874 307H921M874 317H907M930 307H953" stroke="#666787" stroke-width="2" stroke-linecap="round"/>
- <!-- tiny Arch-inspired mark -->
- <path d="M979 281L989 299H983L979 291L975 299H969Z" fill="#8ab6ce" opacity=".8"/>
- <path d="M847 356H1026L1012 364H861Z" fill="#95839d"/>
- <!-- plant -->
- <path d="M1075 317V239" stroke="#819e8a" stroke-width="3"/>
- <path d="M1075 270Q1041 273 1045 247Q1071 247 1075 270M1075 285Q1107 280 1105 254Q1079 259 1075 285M1075 249Q1063 226 1083 213Q1095 236 1075 249" fill="#8ba995"/>
- <path d="M1052 313H1097L1091 349H1058Z" fill="#b78e8d"/>
- <path d="M1057 318H1092" stroke="#d6aaa0" stroke-width="2"/>
- <!-- desk -->
- <rect x="749" y="364" width="384" height="7" rx="3.5" fill="#8f7a87"/>
+ <path d="M68 62V293" stroke="#303344"/>
+ <text x="91" y="109" font-size="40" font-weight="600" letter-spacing="-1" fill="#e5d6c6"><tspan fill="#b7a5d1">#</tspan><tspan x="124">Hi, I'm Ildar.</tspan></text>
+ <text x="93" y="174" font-size="19" fill="#c1c6d9">Fullstack developer, frontend at heart.</text>
+ <text x="93" y="208" font-size="16" fill="#94b9d5">Node.js · TypeScript · React / Next.js</text>
+ <rect x="473" y="192" width="10" height="20" fill="#c1c6d9" opacity=".75"/>
+ <text x="93" y="278" font-size="16" fill="#a7be9a">Linux / Arch / Neovim<tspan x="323" fill="#8c92a8">· tools that feel fast.</tspan></text>
+ <path d="M1 308H1099V327Q1099 339 1087 339H13Q1 339 1 327Z" fill="#292c3a"/>
+ <path d="M1 308H98V339H13Q1 339 1 327Z" fill="#a7be9a"/>
+ <text x="19" y="328" font-size="12" font-weight="600" fill="#20232b">NORMAL</text>
+ <text x="116" y="328" font-size="12" fill="#b9bfd2">Godsdar / README.md</text>
+ <text x="1068" y="328" font-size="12" text-anchor="end" fill="#b9bfd2">Almaty · UTC+5</text>
 </g>
 </svg>
