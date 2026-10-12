@@ -1,9 +1,9 @@
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg">
-  <img src="./assets/header-wide.svg" width="100%" alt="Godsdar. software engineer: Node.js, TypeScript and React. Open source contributions, tests and CI.">
+  <img src="./assets/header-wide.svg" width="100%" alt="Godsdar. Software Engineer: Node.js, TypeScript and React. Open source contributions, tests and CI.">
 </picture>
 
-I'm Ildar, a software engineer with hands-on experience building full-stack apps and internal business tools. I work with **Node.js / Express, TypeScript and React / Next.js**, with a strong focus on frontend. I also work with Vue 3 and Laravel.
+I'm Ildar, a Software Engineer with hands-on experience building full-stack apps and internal business tools. I work with **Node.js / Express, TypeScript and React / Next.js**, with a strong focus on frontend. I also work with Vue 3 and Laravel.
 
 My client work includes Telegram analytics, timesheets and back-office tools. In open source, my contributions include merged PRs for expense-split tests and wallet/API error handling in MergePay. You can inspect the code and reviews below.
 
