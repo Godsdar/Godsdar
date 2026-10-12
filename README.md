@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/header-mobile-e4a2b78258.svg">
-  <img src="./assets/header-wide-21e526bb39.svg" width="100%" alt="Godsdar · Software Engineer · From idea to working software · Open source, tests and CI">
+  <img src="./assets/header-wide-c90b6a7ea9.svg" width="100%" alt="Godsdar · Software Engineer · From idea to working software · Open source, tests and CI">
 </picture>
 
 I'm Ildar, a Software Engineer experienced with **Node.js / Express, TypeScript and React / Next.js**. I build full-stack apps and internal business tools, with a strong focus on frontend.
