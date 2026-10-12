@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="310" viewBox="0 0 600 310" role="img" aria-labelledby="title desc">
-<title id="title">Godsdar — Software Engineer</title><desc id="desc">A translucent macOS-style terminal with soft blurred blue and purple light. From architecture to working software. Open source, tests and CI.</desc>
+<title id="title">Godsdar — Software Engineer</title><desc id="desc">A translucent macOS-style terminal with soft blurred blue and purple light. From idea to working software. Open source, tests and CI.</desc>
 <defs>
 <filter id="blur" x="-60%" y="-100%" width="220%" height="300%"><feGaussianBlur stdDeviation="28"/></filter>
 <linearGradient id="glass" x2="1" y2="1"><stop stop-color="#1a1b26" stop-opacity=".83"/><stop offset=".5" stop-color="#24283b" stop-opacity=".72"/><stop offset="1" stop-color="#1a1b26" stop-opacity=".85"/></linearGradient>
@@ -23,6 +23,6 @@
 <text x="300" y="35" text-anchor="middle" font-size="13" fill="#a9b1d6">~/Godsdar — zsh</text>
 <text x="32" y="135" font-size="62" font-weight="600" letter-spacing="-2" fill="#c0caf5">Godsdar<tspan fill="#7aa2f7">▍</tspan></text>
 <text x="34" y="180" font-size="26" fill="#bb9af7">Software Engineer</text>
-<text x="34" y="227" font-size="23" fill="#7aa2f7">From architecture to working software.</text>
+<text x="34" y="227" font-size="23" fill="#7aa2f7">From idea to working software.</text>
 <text x="34" y="277" font-size="21" fill="#a9b1d6">Open source · Tests · CI</text>
 </g></svg>

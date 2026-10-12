@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/header-mobile-7d5d43f4f0.svg">
-  <img src="./assets/header-wide-fd95d46dfd.svg" width="100%" alt="Godsdar. Software Engineer. From architecture to working software. Open source, tests and CI.">
+  <source media="(max-width: 600px)" srcset="./assets/header-mobile-b7b0691d71.svg">
+  <img src="./assets/header-wide-f0c362f9dc.svg" width="100%" alt="Godsdar. Software Engineer. From idea to working software. Open source, tests and CI.">
 </picture>
 
 I'm Ildar, a Software Engineer with hands-on experience building full-stack apps and internal business tools. I work with **Node.js / Express, TypeScript and React / Next.js**, with a strong focus on frontend. I also work with Vue 3 and Laravel.
