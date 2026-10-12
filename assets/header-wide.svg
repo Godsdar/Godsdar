@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="290" viewBox="0 0 1100 290" role="img" aria-labelledby="title desc">
-<title id="title">Godsdar — Software Engineer</title><desc id="desc">A translucent macOS-style terminal with soft blurred blue and purple light. Node.js, TypeScript, React, open source, tests and CI.</desc>
+<title id="title">Godsdar — Software Engineer</title><desc id="desc">A translucent macOS-style terminal with soft blurred blue and purple light. From architecture to working software. Open source, tests and CI.</desc>
 <defs>
 <filter id="blur" x="-60%" y="-100%" width="220%" height="300%"><feGaussianBlur stdDeviation="28"/></filter>
 <linearGradient id="glass" x2="1" y2="1"><stop stop-color="#1a1b26" stop-opacity=".83"/><stop offset=".5" stop-color="#24283b" stop-opacity=".72"/><stop offset="1" stop-color="#1a1b26" stop-opacity=".85"/></linearGradient>
@@ -23,6 +23,6 @@
 <text x="550" y="35" text-anchor="middle" font-size="13" fill="#a9b1d6">~/Godsdar — zsh</text>
 <text x="46" y="157" font-size="82" font-weight="600" letter-spacing="-2" fill="#c0caf5">Godsdar<tspan fill="#7aa2f7">▍</tspan></text>
 <text x="48" y="199" font-size="24" fill="#bb9af7">Software Engineer</text>
-<text x="48" y="241" font-size="20" fill="#7aa2f7">Node.js / TypeScript / React / Next.js</text>
+<text x="48" y="241" font-size="20" fill="#7aa2f7">From architecture to working software.</text>
 <text x="1050" y="241" text-anchor="end" font-size="14" fill="#bb9af7">Open source · Tests · CI</text>
 </g></svg>
