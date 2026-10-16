@@ -22,10 +22,10 @@ My work includes client tools for Telegram analytics, timesheets and back-office
 <p><a href="https://cine-shelf-lemon.vercel.app">Try it</a> · <a href="https://github.com/Godsdar/CineShelf">Code</a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Godsdar/lingua">Lingua</a></h3>
-<p>Explore word histories across languages.<br>One TypeScript core for web, Chrome &amp; Electron</p>
-<a href="https://github.com/Godsdar/lingua"><img src="./assets/previews/lingua.png" width="100%" alt="Lingua word histories and etymology tree"></a>
-<p><a href="https://godsdar.github.io/lingua/">Try it</a> · <a href="https://github.com/Godsdar/lingua">Code</a></p>
+<h3><a href="https://github.com/Godsdar/Uberlang">Uberlang</a></h3>
+<p>Explore word histories and sentence structure.<br>TypeScript · React · D3 · spaCy</p>
+<a href="https://github.com/Godsdar/Uberlang"><img src="./assets/previews/uberlang.png" width="100%" alt="Uberlang etymology tree in the Night notebook interface"></a>
+<p><a href="https://uberlang.vercel.app/">Try it</a> · <a href="https://github.com/Godsdar/Uberlang">Code</a></p>
 </td>
 </tr>
 <tr>
